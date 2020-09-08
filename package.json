@@ -1,0 +1,21 @@
+{
+  "name": "UnitTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".babelrc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "redux": "^4.0.5",
+    "redux-mock-store": "^1.5.4",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "fetch-mock": "^9.10.7"
+  }
+}
